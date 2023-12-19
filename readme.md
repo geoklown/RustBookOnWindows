@@ -1,0 +1,6 @@
+# Rust on Windows
+I have been working on C# .NET and Windows. I have a lot of love for this ecosystem. But I also like the Linux ecosystem. Not so much the community. Neither matter in the big picture. But I am thinking about the way I am going about learning my craft. One of the tools I want to learn about is Rust. There is a lot of buzz about it. That doesn't mean anything agin in the big picture. But it might be something for me. 
+
+In this repo I will explore Rust and see how comfortable I will become with it. I don't have any advanced level of knowledge in any one language. This is part of the problem I face. Many of the languages I have explored have made no real impact on how I learn. I hop around from place to place looking for a solid home to get an advanced knowledge base. I think this is a feature of my learning. I have a pretty surface level of many languages and tech stacks. Now is the time I go deeper into the languages and stack. I am making my choices on what I can do with the language and how easy it is for me to grasp the concepts and developer experience. Only then can I build the things I believe I want to make. 
+
+The specific function of this repo is to learn the workflow with Rust on Windows. I like many of the features and possibilities. We shall see. 
